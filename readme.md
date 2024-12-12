@@ -100,4 +100,4 @@ broadcast-server/
 
 ## License
 
-ISC License
+MIT License
