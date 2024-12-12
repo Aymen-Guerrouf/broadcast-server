@@ -92,7 +92,7 @@ broadcast-server/
 - Express.js
 - Socket.IO
 - Node.js
-- Commander.js (for CLI)
+- yargs (for CLI)
 
 ## Project URL
 
