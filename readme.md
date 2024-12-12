@@ -92,7 +92,7 @@ broadcast-server/
 - Express.js
 - Socket.IO
 - Node.js
-- Commander.js (for CLI)
+- yargs (for CLI)
 
 ## Project URL
 
@@ -100,4 +100,4 @@ broadcast-server/
 
 ## License
 
-ISC License
+MIT License
